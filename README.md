@@ -1,5 +1,3 @@
-# SOAP Country Capital Client — SDT202
-
 Program that invokes the public **CountryInfoService** SOAP 1.1 web service and prints the capital city for a two-letter ISO country code.
 
 ## Requirements
